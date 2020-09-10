@@ -1,11 +1,11 @@
-![TravisCI passing](https://travis-ci.org/VoronDesign/VoronUsers.svg?branch=master)
-# VoronUsers repository
+This mod allow users like me to use a different rail from MGN9H, like a MGN9C or (in my case) Schnebeerger MNN9-G3
 
-Welcome to the VoronUsers github repository. This is a place to share your awesome mods for the Voron0, Voron1 and Voron2 3D printers and find useful resources from other Voron community members.
+You'll find the modified STL of the 'Pivot' 'a_drive_frame_upper' 'b_drive_frame_upper'
 
-Check the [`printer_mods`](./printer_mods) [`firmware_configurations`](./firmware_configurations) and [`slicer_configurations`](./slicer_configurations) folders for mods that apply to 
-the current generation of printers. All mods that apply to older (=legacy printers) can be found in the [legacy printers](./legacy_printers) folder.
+I'm still finding a way to modify the X carriage block, since it hasn't too much space in order to reduce the X interaxis of the M3 Holes of the rail. 
+The sense of this mod is only because i had 8 Original Schnebeerger rails laying arounfd my workshop and since when i built the 2.4 i wasn't able to print ABS modified parts, i wanted to use them on my 1.8
+I already printed myself the parts before publishing them, they fit perfectly even the pivot that is basically the same design as before but now is more lightweight.
 
-![Image of Voron 2.2](http://vorondesign.com/images/voron2.4.jpg)
+Enjoy and let me know if there are problems.
 
-![Voron Logo](http://vorondesign.com/images/voron_design_logo.png)
+PS: Temporaneally i'm still using the X carriage with a MNN9-G3 using only 2 M3 screw to fix it.. need to design a better system and then i'll update this!
